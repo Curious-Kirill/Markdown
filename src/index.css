@@ -1,0 +1,43 @@
+body{
+  background-color: #87b5b5;;
+}
+
+.editorWrap{
+  max-width: 600px;
+  margin: 0  auto;
+  background-color: aqua;
+}
+
+.editorHeader{
+  width: 99%;
+  border: 1px solid black;
+  color: black;
+
+}
+#editor{
+  min-height:200px;
+  width: 99%;
+  font-size: 0.89rem;
+  margin-bottom: -5px;
+  resize: vertical;
+  outline:none;
+  background-color: #c0d8d8;
+}
+.previewWrapper{
+  
+  max-width: 700px;
+  margin: 1.3rem auto;
+  background-color: #c0d8d8;
+  color: black;
+
+}
+.previewHeader{
+  background-color: aqua;
+
+  width: 100%;
+  border: 1px solid black;
+  color: black;
+}
+img{
+  width: 200px;
+}
